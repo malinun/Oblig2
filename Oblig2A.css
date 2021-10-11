@@ -1,15 +1,16 @@
 
 img.A {
-    max-width: 1200px;
+    max-width: 680px;
+    position: right;
 }
 img.B {
-    max-width: 1200px;
+    max-width: 680px;
 }
 img.C {
-    max-width: 1200px;
+    max-width: 680px;
 }
 img.D {
-    max-width: 1200px;
+    max-width: 680px;
 }
 
 header {
@@ -20,5 +21,4 @@ body {
     font-family: Helvetica, sans-serif;
     background-color: black;
     color: white;
-    vertical-align:middle;
 }
