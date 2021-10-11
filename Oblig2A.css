@@ -24,6 +24,12 @@
     box-sizing: border-box;
 }
 
+.BildeSider {
+    size: 200%;
+}
+h2 {
+    text-align: center;
+}
 header {
     text-align:center;
     font-size: 130%;
