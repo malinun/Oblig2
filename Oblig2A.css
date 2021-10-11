@@ -1,17 +1,21 @@
 
 img.A {
-    max-width: 500px;
+    max-width: 1200px;
 }
 img.B {
-    max-width: 500px;
+    max-width: 1200px;
 }
 img.C {
-    max-width: 500px;
+    max-width: 1200px;
 }
 img.D {
-    max-width: 500px;
+    max-width: 1200px;
 }
 
+header {
+    text-align:center;
+    font-size: 130%;
+}
 body {
     font-family: Helvetica, sans-serif;
     background-color: black;
