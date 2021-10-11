@@ -1,10 +1,6 @@
-picture {
-    max-width: 100px;
-    height: auto;
-}
 
-img {
-    max-width: 500px;
+img.A {
+    max-width: 400px;
 }
 
 body {
