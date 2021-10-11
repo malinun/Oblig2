@@ -1,16 +1,26 @@
 
 img.A {
-    max-width: 680px;
-    position: right;
+    max-width: 55%;  
+    margin:0px
 }
 img.B {
-    max-width: 680px;
+    max-width: 55%;  
+    margin:0px
+    
 }
 img.C {
-    max-width: 680px;
+    max-width: 55%;  
+    margin:0px
 }
 img.D {
-    max-width: 680px;
+    max-width: 55%;  
+    margin:0px
+}
+.content {
+    background-color: white;
+    height: 480px;
+    margin: 0px;
+    box-sizing: border-box;
 }
 
 header {
