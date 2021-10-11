@@ -1,4 +1,12 @@
 picture {
-    max-width: 400px;
+    max-width: 100px;
     height: auto;
+}
+
+img {
+    max-width: 300px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
 }
