@@ -1,11 +1,28 @@
 
-.content {
-    background-color: rgb(27, 27, 27);
-    height: 480px;
+.contentPurple {
+    background-color: rgb(199, 157, 255);
+    height: 522px;
     margin: 0px;
     box-sizing: border-box;
 }
-
+.contentBlue {
+    background-color: rgb(162, 199, 255);
+    height: 522px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.contentRed {
+    background-color: rgba(255, 129, 129, 0.822);
+    height: 522px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.contentOrange {
+    background-color: rgb(255, 184, 117);
+    height: 522px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 header {
     text-align:center;
     font-size: 130%;
