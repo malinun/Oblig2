@@ -1,6 +1,15 @@
 
 img.A {
-    max-width: 400px;
+    max-width: 500px;
+}
+img.B {
+    max-width: 500px;
+}
+img.C {
+    max-width: 500px;
+}
+img.D {
+    max-width: 500px;
 }
 
 body {
