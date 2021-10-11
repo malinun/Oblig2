@@ -1,21 +1,4 @@
 
-img.A {
-    max-width: 55%;  
-    margin:0px
-}
-img.B {
-    max-width: 55%;  
-    margin:0px 
-}
-
-img.C {
-    max-width: 55%;  
-    margin:0px
-}
-img.D {
-    max-width: 55%;  
-    margin:0px
-}
 .content {
     background-color: white;
     height: 480px;
@@ -31,4 +14,17 @@ body {
     font-family: Helvetica, sans-serif;
     background-color: black;
     color: white;
+}
+
+img {
+    max-width: 55%;  
+    margin:0px
+}
+
+.right{
+    float: right;
+}
+
+.left {
+    float: left;
 }
