@@ -24,6 +24,20 @@
     box-sizing: border-box;
 }
 
+.contentPink{
+    background-color: rgb(231, 161, 176);
+    height: 522px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.contentGreen{
+    background-color: rgb(3, 160, 98);
+    height: 522px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
 .BildeSider {
     size: 200%;
 }
