@@ -25,7 +25,7 @@ img {
     opacity: 0.7;
 }
 .photoContent{
-    max-width: calc(49% - 0px);
+    max-width: calc(50% - 0px);
     margin: 0;
     box-sizing: border-box;
     display: inline-block;
