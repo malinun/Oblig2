@@ -1,4 +1,23 @@
 
+
+
+h2 {
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 220%;
+}
+header {
+    text-align:center;
+    font-size: 200%;
+    letter-spacing: 5px;
+}
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+
 /* Bilder index.html */
 .container{
     display: inline-flex;
@@ -101,23 +120,23 @@ input[type=submit]{
 /* slutt, wireframe.html */
 
 
+/* sider med bildene */
 .BildeSider {
-    size: 200%;
+    max-width: 80%;
 }
 
-h2 {
-    text-align: center;
-    letter-spacing: 10px;
-    font-size: 220%;
+span{
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 40px;
 }
-header {
-    text-align:center;
-    font-size: 200%;
-    letter-spacing: 5px;
+
+.bilde_side_boks{
+    display: inline-flex;
 }
-body {
-    font-family: Helvetica, sans-serif;
-    background-color: black;
-    color: white;
-}
+
+/* slutt, sider med bildene */
+
 
