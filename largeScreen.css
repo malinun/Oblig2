@@ -125,15 +125,16 @@ input[type=submit]{
 
 /* sider med bildene */
 .BildeSider {
-    max-width: 80%;
+    max-width: 70%;
+    margin-left: 200px;
 }
 
-span{
+p {
     margin-top: auto;
     margin-bottom: auto;
     padding-left: 20px;
     padding-right: 20px;
-    line-height: 40px;
+    line-height: 30px;
 }
 
 .bilde_side_boks{
