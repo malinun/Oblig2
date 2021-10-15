@@ -8,7 +8,7 @@ h2 {
 }
 header {
     text-align:center;
-    font-size: 200%;
+    font-size: 70%;
     letter-spacing: 5px;
 }
 body {
@@ -130,14 +130,16 @@ input[type=submit]{
 /* sider med bildene */
 .BildeSider {
     max-width: 80%;
+    margin-left: 20px;
 }
 
-span{
+p {
     margin-top: auto;
     margin-bottom: auto;
     padding-left: 20px;
     padding-right: 20px;
-    line-height: 40px;
+    line-height: 20px;
+    font-size: 10px;
 }
 
 .bilde_side_boks{
